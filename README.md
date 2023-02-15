@@ -15,6 +15,7 @@ map file maker
 ## fix-issue:
 - lembrem-se que se o total px der falha ou o total tiles vcs podem arrumar colocando direto o valor que voces querem tornando mais personalizada
 -- a experiência
+- total_px: tenha certeza que está na engine correta encontrada na url do localhost.
 
 ## features UI:
 - 4 add button: coins, red, green and dark;
